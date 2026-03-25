@@ -1,6 +1,6 @@
-package com.NatanRomualdo.Projetos;
+package com.natanromualdo.projetos;
 
-public class TiposVariaveis {
+    public class variaveis {
     public static void main(String[] args){
         
         // Tipos primitivos
@@ -25,3 +25,4 @@ public class TiposVariaveis {
         System.out.println("Verdade..........:" + verdade);
     }
 }
+
