@@ -9,16 +9,17 @@ public class TiposVariaveis {
         Float salarioFloat = 2500.50f; // Ponto flutuante
         double salarioDouble = 2500.50; // Ponto flutuante
         char genero = 'M'; // Caractere
-        boolean isAtivo = true; // Booleano
+        boolean verdade = true; // Booleano
 
         // Exibindo os valores
-        System.out.println("Idade (Byte).....: " + idadeByte);
-        System.out.println("Idade (Short)....: " + idadeShort);
-        System.out.println("Idade (Inteiro)..: " + idadeInteiro);
-        System.out.println("Salário (Long)...: " + salarioLong);
-        System.out.println("Salário (Float)..: " + salarioFloat);
-        System.out.println("Salário (Double).: " + salarioDouble);
-        System.out.println("Gênero...........: " + genero);
-        System.out.println("Ativo............: " + isAtivo);
+        System.out.println("Tipos de Variáveis em Java");
+        System.out.println("Idade (Byte).....:" + idadeByte);
+        System.out.println("Idade (Short)....:" + idadeShort);
+        System.out.println("Idade (Inteiro)..:" + idadeInteiro);
+        System.out.println("Salário (Long)...:" + salarioLong);
+        System.out.println("Salário (Float)..:" + salarioFloat);
+        System.out.println("Salário (Double).:" + salarioDouble);
+        System.out.println("Gênero...........:" + genero);
+        System.out.println("Verdade..........:" + verdade);
     }
 }
