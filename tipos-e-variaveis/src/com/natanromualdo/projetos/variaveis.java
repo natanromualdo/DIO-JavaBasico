@@ -2,7 +2,7 @@ package com.natanromualdo.projetos;
 
     public class variaveis {
     public static void main(String[] args){
-        
+
         // Tipos primitivos
         byte idadeByte = 30; // Byte
         short idadeShort = 30; // Short
