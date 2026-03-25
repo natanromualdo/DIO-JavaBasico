@@ -1,18 +1,60 @@
-## Getting Started
+☕ Java Básico - DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+📌 Sobre o Projeto:
+Este repositório reúne exercícios, exemplos e práticas desenvolvidas durante o curso de Java Básico da DIO (Digital Innovation One).
+O objetivo é documentar minha evolução na linguagem Java, passando pelos fundamentos da programação até conceitos de Programação Orientada a Objetos (POO).
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+🚀 Objetivos de Aprendizado
+- Desenvolver lógica de programação
+- Compreender a sintaxe da linguagem Java
+- Aplicar boas práticas de código
+- Evoluir para Programação Orientada a Objetos
+- Preparar base para projetos mais avançados
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+🧠 Conteúdos Abordados
+Fundamentos
+Tipos de variáveis
+Operadores
+Entrada e saída de dados
+Estruturas condicionais (if/else, switch)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Estruturas de Repetição
+for
+while
+do-while
 
-## Dependency Management
+ Programação Orientada a Objetos (em andamento).
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Classes e Objetos
+
+Métodos
+
+Encapsulamento
+
+Herança
+
+Polimorfismo
+
+
+
+
+💻 Tecnologias Utilizadas:
+☕ Java
+🧠 VS Code
+🔧 Git & GitHub
+
+
+
+📈 Evolução:
+Este repositório está em constante atualização conforme avanço nos estudos em Java.
+
+🎯 Próximos Passos:
+- Aprimorar Programação Orientada a Objetos
+- Criar projetos práticos (CRUD, sistemas simples)
+- Aprender estruturas de dados
+- Iniciar estudos com Spring Boot
+
+🤝 Contribuição:
+Este projeto é voltado para aprendizado, mas sugestões e melhorias são sempre bem-vindas.
