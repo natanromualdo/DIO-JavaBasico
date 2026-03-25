@@ -14,29 +14,37 @@ O objetivo é documentar minha evolução na linguagem Java, passando pelos fund
 
 
 🧠 Conteúdos Abordados
-🔹 Fundamentos
+Fundamentos
 Tipos de variáveis
 Operadores
 Entrada e saída de dados
 Estruturas condicionais (if/else, switch)
 
-🔹 Estruturas de Repetição
+Estruturas de Repetição
 for
 while
 do-while
 
-🔹 Programação Orientada a Objetos (em andamento)
+ Programação Orientada a Objetos (em andamento).
+
 Classes e Objetos
+
 Métodos
+
 Encapsulamento
+
 Herança
+
 Polimorfismo
+
+
 
 
 💻 Tecnologias Utilizadas:
 ☕ Java
 🧠 VS Code
 🔧 Git & GitHub
+
 
 
 📈 Evolução:
